@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Colors */
+  --color-gainsboro: rgba(217, 217, 217, 0);
+}
